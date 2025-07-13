@@ -16,7 +16,7 @@ This project predicts the **Remaining Useful Life (RUL)** of aircraft engines us
 
  Final Result
 
-Final MAE:9.77 cycles  
+Final MAE : 9.77 cycles  
 Test Set: FD001 subset of NASA C-MAPSS dataset
 
  Model Architecture
